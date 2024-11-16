@@ -1,0 +1,14 @@
+c:\Users\Ameer\Documents\Coding\Characters\bin\Debug\net8.0\Characters.exe
+C:\Users\Ameer\Documents\Coding\Characters\bin\Debug\net8.0\Characters.deps.json
+C:\Users\Ameer\Documents\Coding\Characters\bin\Debug\net8.0\Characters.runtimeconfig.json
+c:\Users\Ameer\Documents\Coding\Characters\bin\Debug\net8.0\Characters.dll
+c:\Users\Ameer\Documents\Coding\Characters\bin\Debug\net8.0\Characters.pdb
+c:\Users\Ameer\Documents\Coding\Characters\obj\Debug\net8.0\Characters.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ameer\Documents\Coding\Characters\obj\Debug\net8.0\Characters.AssemblyInfoInputs.cache
+c:\Users\Ameer\Documents\Coding\Characters\obj\Debug\net8.0\Characters.AssemblyInfo.cs
+c:\Users\Ameer\Documents\Coding\Characters\obj\Debug\net8.0\Characters.csproj.CoreCompileInputs.cache
+c:\Users\Ameer\Documents\Coding\Characters\obj\Debug\net8.0\Characters.dll
+c:\Users\Ameer\Documents\Coding\Characters\obj\Debug\net8.0\refint\Characters.dll
+c:\Users\Ameer\Documents\Coding\Characters\obj\Debug\net8.0\Characters.pdb
+C:\Users\Ameer\Documents\Coding\Characters\obj\Debug\net8.0\Characters.genruntimeconfig.cache
+C:\Users\Ameer\Documents\Coding\Characters\obj\Debug\net8.0\ref\Characters.dll
